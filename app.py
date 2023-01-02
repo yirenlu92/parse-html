@@ -71,5 +71,5 @@ def parse_html():
   # Return the modified HTML
   return soup.prettify()
 
-if __name__ == '__main__':
-  app.run(host='localhost', port=8080)
+# if __name__ == '__main__':
+#   app.run(host='localhost', port=8080)
